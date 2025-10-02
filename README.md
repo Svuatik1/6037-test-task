@@ -1,13 +1,12 @@
 ## Getting Started
 
-First, you need to install all necessary packages (dependencies).
+First, you need to install all necessary packages (dependencies):
 
 ```bash
 npm install
 
-First, run the development server:
+Next, run the development server:
 
-```bash
 npm run dev
 # or
 yarn dev
@@ -16,5 +15,3 @@ pnpm dev
 # or
 bun dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
