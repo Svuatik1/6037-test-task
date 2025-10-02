@@ -1,8 +1,7 @@
 ## Getting Started
 
-First, you need to install all necessary packages (dependencies):
-
 ```bash
+First, you need to install all necessary packages (dependencies):
 npm install
 
 Next, run the development server:
